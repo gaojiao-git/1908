@@ -1,7 +1,13 @@
 <template>
   <div class="hello">
     <h3>HelloWorld</h3>
-    <h1>{{ msg }}</h1>
+    <p>{{ msg }}</p>
+    <p>在分支上进行开发：
+      <span>master上的代码</span>
+    </p>
+    <p>在分支上添加代码：
+      <span>master上的代码</span>
+    </p>
   </div>
 </template>
 
